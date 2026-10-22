@@ -1,0 +1,17 @@
+{
+  "n_cells": 100,
+  "n_packs_2021": 16,
+  "any_second_life_counts": {
+    "0": 64,
+    "1": 36
+  },
+  "survival_counts_complete": {
+    "0": 68,
+    "1": 25
+  },
+  "passport_any_balanced_accuracy": 0.6857638888888888,
+  "full_any_balanced_accuracy": 0.9704861111111112,
+  "passport_survival_balanced_accuracy": 0.6864705882352942,
+  "full_survival_balanced_accuracy": 0.9852941176470589,
+  "note": "Metrics are pack-grouped within-source estimates, not external validation or realized route profit."
+}

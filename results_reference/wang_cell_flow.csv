@@ -1,0 +1,5 @@
+cell,policy,state,first_n,second_n,second_origin,second_last,life60_observed,reference_interval_max,followup_cycles
+10,objective,eligible,89,48,0.7885525,0.49994000000000005,True,5.0,235.0
+10,published_secondary_exclusions,eligible,89,47,0.7885525,0.49994000000000005,True,10.0,235.0
+11,objective,eligible,89,58,0.7908533333333333,0.4939575,True,5.0,285.0
+11,published_secondary_exclusions,eligible,89,58,0.7908533333333333,0.4939575,True,5.0,285.0

@@ -1,0 +1,34 @@
+Identifier,Measurement family,Information block,Available before the paid test
+x1,Pack level commissioning date,Battery history,yes
+x2,Battery management system cycle count,Battery history,yes
+x3,Battery management system remaining capacity,Battery history,yes
+x4,Battery management system rated capacity,Battery history,yes
+x5,Cell mass,Physical observation,yes
+x6,Initial open circuit voltage,Physical observation,yes
+x7,Cell manufacturing date,Battery history,yes
+x8,Characterization test date,Timing reference,no
+x9,Short circuit flag,Early diagnostics,"yes, early"
+x10,Transient voltage at the start of the first discharge step,Early diagnostics,"yes, early"
+x11,Transient voltage at the end of the first discharge step,Early diagnostics,"yes, early"
+x12,Voltage at the end of the reference discharge,Full characterization,no
+x13,Reference discharge voltage loss indicator,Full characterization,no
+x14,Measured discharge capacity,Full characterization,no
+x15,Measured discharge energy,Full characterization,no
+x16,Voltage at the start of the reference charge,Full characterization,no
+x17,Voltage at the end of the reference charge,Full characterization,no
+x18,Open circuit voltage after the reference charge,Full characterization,no
+x19,Reference charge acceptance indicator,Full characterization,no
+x20,Charge capacity of the reference charge,Full characterization,no
+x21,Charge energy of the reference charge,Full characterization,no
+x22,Partial discharge flag,Full characterization,no
+x23,Voltage after the partial discharge,Full characterization,no
+x24,Voltage after the recovery rest,Full characterization,no
+x25,Discharge capacity of the partial discharge,Full characterization,no
+x26,Discharge energy of the partial discharge,Full characterization,no
+x27,Voltage at the start of the recovery step,Full characterization,no
+x28,Voltage at the end of the recovery step,Full characterization,no
+x29,Float voltage after approximately three months of storage,Delayed measurement,no
+cb,Pack level battery management system remaining capacity,Battery history,yes
+zb,Pack level battery management system cycle count,Battery history,yes
+db,Pack level diagnostic status field,Battery history,yes
+sb,Fraction of pack cells at or above 70 percent capacity,Excluded as outcome-derived,no

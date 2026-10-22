@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived tables, please cite the article and this repository."
+title: "Second-life battery screening: leakage-aware, pack-grouped evaluation"
+abstract: >-
+  Analysis code and derived inputs for a pack-grouped evaluation of battery
+  passport history, physical observations and early electrical diagnostics in
+  second-life screening of retired lithium-ion cells.
+authors:
+  - family-names: Zhang
+    given-names: Junjie
+  - family-names: Wang
+    given-names: Siyu
+    corresponding: true
+version: 1.0.0
+date-released: "2026-10-23"
+license: MIT
+repository-code: "https://github.com/williamjay1/secondlife-screening"
+keywords:
+  - second-life batteries
+  - battery passport
+  - screening and sorting
+  - data leakage
+  - pack-level validation

@@ -1,0 +1,171 @@
+Target,Information block,Metric,Estimate,Interval low,Interval high
+100-cycle retention,Battery history,balanced_accuracy,0.6864705882352942,0.3920454545454545,0.987202380952381
+100-cycle retention,Battery history,accuracy,0.7634408602150538,0.51,0.9775404370909988
+100-cycle retention,Battery history,macro_f1,0.6911231884057971,0.3926751058498229,0.9593078399050964
+100-cycle retention,Battery history,roc_auc,0.8647058823529412,0.5930366847826087,1.0
+100-cycle retention,Battery history,brier,0.1305774719164917,0.0233918837332559,0.2681399128279347
+100-cycle retention,Battery history,eligible_recall,0.52,0.0,1.0
+100-cycle retention,Battery history,recycle_specificity,0.8529411764705882,0.5651494565217391,1.0
+100-cycle retention,Battery history,average_precision,0.7666919287608943,0.1970805481283422,1.0
+100-cycle retention,Battery history,confusion_0_0,58.0,,
+100-cycle retention,Battery history,confusion_0_1,10.0,,
+100-cycle retention,Battery history,confusion_1_0,12.0,,
+100-cycle retention,Battery history,confusion_1_1,13.0,,
+100-cycle retention,Battery history,log_loss,0.4415618297581393,0.0993920074495317,0.9385687327023428
+100-cycle retention,Plus delayed measurement,balanced_accuracy,0.9852941176470588,0.949141677531508,1.0
+100-cycle retention,Plus delayed measurement,accuracy,0.978494623655914,0.928505291005291,1.0
+100-cycle retention,Plus delayed measurement,macro_f1,0.9733065442020664,0.8636330982236154,1.0
+100-cycle retention,Plus delayed measurement,roc_auc,1.0,1.0,1.0
+100-cycle retention,Plus delayed measurement,brier,0.0246870205665441,0.0026623483694792,0.0617249166281768
+100-cycle retention,Plus delayed measurement,eligible_recall,1.0,1.0,1.0
+100-cycle retention,Plus delayed measurement,recycle_specificity,0.9705882352941176,0.9012037037037036,1.0
+100-cycle retention,Plus delayed measurement,average_precision,1.0000000000000002,0.9999999999999998,1.0000000000000002
+100-cycle retention,Plus delayed measurement,confusion_0_0,66.0,,
+100-cycle retention,Plus delayed measurement,confusion_0_1,2.0,,
+100-cycle retention,Plus delayed measurement,confusion_1_0,0.0,,
+100-cycle retention,Plus delayed measurement,confusion_1_1,25.0,,
+100-cycle retention,Plus delayed measurement,log_loss,0.09594986361991,0.0239170912412082,0.2066617663213563
+100-cycle retention,Plus early diagnostics,balanced_accuracy,0.8358823529411765,0.4680677613320999,1.0
+100-cycle retention,Plus early diagnostics,accuracy,0.8709677419354839,0.6739130434782609,1.0
+100-cycle retention,Plus early diagnostics,macro_f1,0.8358823529411765,0.4642526455026455,1.0
+100-cycle retention,Plus early diagnostics,roc_auc,0.8923529411764706,0.5930477087256748,1.0
+100-cycle retention,Plus early diagnostics,brier,0.1228526973891842,0.0262310080018051,0.273124834394111
+100-cycle retention,Plus early diagnostics,eligible_recall,0.76,0.0,1.0
+100-cycle retention,Plus early diagnostics,recycle_specificity,0.9117647058823528,0.7,1.0
+100-cycle retention,Plus early diagnostics,average_precision,0.8200567511650723,0.1284445684158328,1.0
+100-cycle retention,Plus early diagnostics,confusion_0_0,62.0,,
+100-cycle retention,Plus early diagnostics,confusion_0_1,6.0,,
+100-cycle retention,Plus early diagnostics,confusion_1_0,6.0,,
+100-cycle retention,Plus early diagnostics,confusion_1_1,19.0,,
+100-cycle retention,Plus early diagnostics,log_loss,0.4338935151965197,0.1078393630534568,0.9749527387677676
+100-cycle retention,Plus full characterization,balanced_accuracy,0.9852941176470588,0.9508196721311476,1.0
+100-cycle retention,Plus full characterization,accuracy,0.978494623655914,0.9310344827586208,1.0
+100-cycle retention,Plus full characterization,macro_f1,0.9733065442020664,0.8728571428571428,1.0
+100-cycle retention,Plus full characterization,roc_auc,1.0,1.0,1.0
+100-cycle retention,Plus full characterization,brier,0.0249296659205037,0.0022719183395272,0.0608196178196042
+100-cycle retention,Plus full characterization,eligible_recall,1.0,1.0,1.0
+100-cycle retention,Plus full characterization,recycle_specificity,0.9705882352941176,0.90318614489688,1.0
+100-cycle retention,Plus full characterization,average_precision,1.0000000000000002,0.9999999999999998,1.0000000000000002
+100-cycle retention,Plus full characterization,confusion_0_0,66.0,,
+100-cycle retention,Plus full characterization,confusion_0_1,2.0,,
+100-cycle retention,Plus full characterization,confusion_1_0,0.0,,
+100-cycle retention,Plus full characterization,confusion_1_1,25.0,,
+100-cycle retention,Plus full characterization,log_loss,0.0964624183251284,0.0231126907291103,0.2002461019455553
+100-cycle retention,Plus physical observations,balanced_accuracy,0.828529411764706,0.4999673913043478,1.0
+100-cycle retention,Plus physical observations,accuracy,0.8602150537634409,0.6582195203197868,1.0
+100-cycle retention,Plus physical observations,macro_f1,0.824400871459695,0.4721813725490196,1.0
+100-cycle retention,Plus physical observations,roc_auc,0.8482352941176471,0.5498703309074826,1.0
+100-cycle retention,Plus physical observations,brier,0.1433125086929552,0.0343617338529603,0.2974628454717132
+100-cycle retention,Plus physical observations,eligible_recall,0.76,0.0,1.0
+100-cycle retention,Plus physical observations,recycle_specificity,0.8970588235294118,0.6912871888281724,1.0
+100-cycle retention,Plus physical observations,average_precision,0.5974481086568004,0.1563141098409045,1.0
+100-cycle retention,Plus physical observations,confusion_0_0,61.0,,
+100-cycle retention,Plus physical observations,confusion_0_1,7.0,,
+100-cycle retention,Plus physical observations,confusion_1_0,6.0,,
+100-cycle retention,Plus physical observations,confusion_1_1,19.0,,
+100-cycle retention,Plus physical observations,log_loss,0.5178558079483164,0.1338044811345006,1.1249582850624495
+Second-life eligibility,Battery history,balanced_accuracy,0.6857638888888888,0.4177455036155963,0.931312123493976
+Second-life eligibility,Battery history,accuracy,0.73,0.4894796723300971,0.9358063737324964
+Second-life eligibility,Battery history,macro_f1,0.6923076923076923,0.3942857142857143,0.9203899782135077
+Second-life eligibility,Battery history,roc_auc,0.6675347222222222,0.318675094449288,0.9835147761842676
+Second-life eligibility,Battery history,brier,0.2164818691882902,0.0703061513474949,0.3906411119157734
+Second-life eligibility,Battery history,eligible_recall,0.5277777777777778,0.0,1.0
+Second-life eligibility,Battery history,recycle_specificity,0.84375,0.5384615384615384,1.0
+Second-life eligibility,Battery history,average_precision,0.5162942263638679,0.2332820450439384,0.9738322382061038
+Second-life eligibility,Battery history,confusion_0_0,54.0,,
+Second-life eligibility,Battery history,confusion_0_1,10.0,,
+Second-life eligibility,Battery history,confusion_1_0,17.0,,
+Second-life eligibility,Battery history,confusion_1_1,19.0,,
+Second-life eligibility,Battery history,log_loss,0.7924160665036901,0.2567741418472052,1.483373804642776
+Second-life eligibility,Plus delayed measurement,balanced_accuracy,0.9704861111111112,0.9149335488505748,1.0
+Second-life eligibility,Plus delayed measurement,accuracy,0.97,0.9191919191919192,1.0
+Second-life eligibility,Plus delayed measurement,macro_f1,0.9676410311724732,0.9067669187181382,1.0
+Second-life eligibility,Plus delayed measurement,roc_auc,0.9991319444444444,0.9934107779812976,1.0
+Second-life eligibility,Plus delayed measurement,brier,0.0178553427675073,0.0018006407178423,0.0402310438783369
+Second-life eligibility,Plus delayed measurement,eligible_recall,0.9722222222222222,0.9047235023041474,1.0
+Second-life eligibility,Plus delayed measurement,recycle_specificity,0.96875,0.9019117647058824,1.0
+Second-life eligibility,Plus delayed measurement,average_precision,0.9985380116959064,0.987755921773966,1.0
+Second-life eligibility,Plus delayed measurement,confusion_0_0,62.0,,
+Second-life eligibility,Plus delayed measurement,confusion_0_1,2.0,,
+Second-life eligibility,Plus delayed measurement,confusion_1_0,1.0,,
+Second-life eligibility,Plus delayed measurement,confusion_1_1,35.0,,
+Second-life eligibility,Plus delayed measurement,log_loss,0.0692475927891156,0.022172101427561,0.1382658821704363
+Second-life eligibility,Plus early diagnostics,balanced_accuracy,0.8619791666666667,0.699981884057971,0.9710248447204968
+Second-life eligibility,Plus early diagnostics,accuracy,0.87,0.7529271708683474,0.97196261682243
+Second-life eligibility,Plus early diagnostics,macro_f1,0.8597778017473843,0.6835043110311708,0.9670930249758886
+Second-life eligibility,Plus early diagnostics,roc_auc,0.9383680555555556,0.7727971156750227,1.0
+Second-life eligibility,Plus early diagnostics,brier,0.097448105809291,0.0277747854883998,0.1854391017326002
+Second-life eligibility,Plus early diagnostics,eligible_recall,0.8333333333333334,0.5454545454545454,1.0
+Second-life eligibility,Plus early diagnostics,recycle_specificity,0.890625,0.7428571428571429,1.0
+Second-life eligibility,Plus early diagnostics,average_precision,0.9166425796049305,0.5754222560363107,1.0
+Second-life eligibility,Plus early diagnostics,confusion_0_0,57.0,,
+Second-life eligibility,Plus early diagnostics,confusion_0_1,7.0,,
+Second-life eligibility,Plus early diagnostics,confusion_1_0,6.0,,
+Second-life eligibility,Plus early diagnostics,confusion_1_1,30.0,,
+Second-life eligibility,Plus early diagnostics,log_loss,0.3101302370820107,0.1148015793686429,0.569886323344734
+Second-life eligibility,Plus full characterization,balanced_accuracy,0.9704861111111112,0.9128613412166774,1.0
+Second-life eligibility,Plus full characterization,accuracy,0.97,0.9185807113543092,1.0
+Second-life eligibility,Plus full characterization,macro_f1,0.9676410311724732,0.9071393118375876,1.0
+Second-life eligibility,Plus full characterization,roc_auc,0.9991319444444444,0.9928720344160472,1.0
+Second-life eligibility,Plus full characterization,brier,0.0178258836414916,0.0019546746915924,0.039402897706528
+Second-life eligibility,Plus full characterization,eligible_recall,0.9722222222222222,0.9047235023041474,1.0
+Second-life eligibility,Plus full characterization,recycle_specificity,0.96875,0.9073966408268734,1.0
+Second-life eligibility,Plus full characterization,average_precision,0.9985380116959064,0.9860139860139858,1.0000000000000002
+Second-life eligibility,Plus full characterization,confusion_0_0,62.0,,
+Second-life eligibility,Plus full characterization,confusion_0_1,2.0,,
+Second-life eligibility,Plus full characterization,confusion_1_0,1.0,,
+Second-life eligibility,Plus full characterization,confusion_1_1,35.0,,
+Second-life eligibility,Plus full characterization,log_loss,0.0691651533080825,0.0228342960962168,0.1339749210269537
+Second-life eligibility,Plus physical observations,balanced_accuracy,0.7612847222222222,0.5016577834743107,0.976757399577167
+Second-life eligibility,Plus physical observations,accuracy,0.78,0.5760106253053249,0.975609756097561
+Second-life eligibility,Plus physical observations,macro_f1,0.7612847222222222,0.4912908145772111,0.9705721826586706
+Second-life eligibility,Plus physical observations,roc_auc,0.8802083333333333,0.6606131319897484,0.9991500850340136
+Second-life eligibility,Plus physical observations,brier,0.1419978431969492,0.0351594356777428,0.2653711293607757
+Second-life eligibility,Plus physical observations,eligible_recall,0.6944444444444444,0.2547794117647058,1.0
+Second-life eligibility,Plus physical observations,recycle_specificity,0.828125,0.5536792452830189,1.0
+Second-life eligibility,Plus physical observations,average_precision,0.8464069855870509,0.5146207993109737,0.998917748917749
+Second-life eligibility,Plus physical observations,confusion_0_0,53.0,,
+Second-life eligibility,Plus physical observations,confusion_0_1,11.0,,
+Second-life eligibility,Plus physical observations,confusion_1_0,11.0,,
+Second-life eligibility,Plus physical observations,confusion_1_1,25.0,,
+Second-life eligibility,Plus physical observations,log_loss,0.45808912443241,0.1542817900315409,0.8437809559185403
+"Independent cohort, cycle 151 retention",Capacity only,balanced_accuracy,0.6596320346320346,0.5203753918495297,0.762957910436902
+"Independent cohort, cycle 151 retention",Capacity only,roc_auc,0.6130952380952381,,
+"Independent cohort, cycle 151 retention",Capacity only,brier,0.2404002858531457,,
+"Independent cohort, cycle 151 retention",Capacity only,eligible_recall,0.7954545454545454,,
+"Independent cohort, cycle 151 retention",Capacity only,recycle_specificity,0.5238095238095238,,
+"Independent cohort, cycle 151 retention",Five explicit diagnostics,balanced_accuracy,0.7429653679653679,0.6056738035457417,0.8534513546798029
+"Independent cohort, cycle 151 retention",Five explicit diagnostics,roc_auc,0.8100649350649352,,
+"Independent cohort, cycle 151 retention",Five explicit diagnostics,brier,0.1837398829466801,,
+"Independent cohort, cycle 151 retention",Five explicit diagnostics,eligible_recall,0.7954545454545454,,
+"Independent cohort, cycle 151 retention",Five explicit diagnostics,recycle_specificity,0.6904761904761905,,
+"Independent cohort, cycle 151 retention",108 implicit features,balanced_accuracy,0.6266233766233766,0.496611274954628,0.7348533411033411
+"Independent cohort, cycle 151 retention",108 implicit features,roc_auc,0.7056277056277056,,
+"Independent cohort, cycle 151 retention",108 implicit features,brier,0.2732057229005453,,
+"Independent cohort, cycle 151 retention",108 implicit features,eligible_recall,0.6818181818181818,,
+"Independent cohort, cycle 151 retention",108 implicit features,recycle_specificity,0.5714285714285714,,
+"Independent cohort, cycle 151 retention",Explicit and implicit,balanced_accuracy,0.6390692640692641,0.4830691102198455,0.7614142308659185
+"Independent cohort, cycle 151 retention",Explicit and implicit,roc_auc,0.7294372294372296,,
+"Independent cohort, cycle 151 retention",Explicit and implicit,brier,0.256700709008285,,
+"Independent cohort, cycle 151 retention",Explicit and implicit,eligible_recall,0.6590909090909091,,
+"Independent cohort, cycle 151 retention",Explicit and implicit,recycle_specificity,0.6190476190476191,,
+Cycle 100 relative capacity,Battery history,mae,0.2493803728286206,0.1513123731232844,0.3589084285818805
+Cycle 100 relative capacity,Battery history,rmse,0.3196537095008723,0.1830479741662704,0.4400799012785462
+Cycle 100 relative capacity,Battery history,r2,0.0705488802201583,-1.3951128257539995,0.6636632312975749
+Cycle 100 relative capacity,Battery history,spearman,0.5195308149644748,-0.1069927109666199,0.885786511706371
+Cycle 100 relative capacity,Plus physical observations,mae,0.3112242811496485,0.2158356042221903,0.4203429190178852
+Cycle 100 relative capacity,Plus physical observations,rmse,0.37684791129013,0.2394703738796007,0.5066701317921357
+Cycle 100 relative capacity,Plus physical observations,r2,-0.291811905183835,-2.1078039330703646,0.452674126601023
+Cycle 100 relative capacity,Plus physical observations,spearman,0.4411306904933854,-0.1824676582244589,0.8437186937041915
+Cycle 100 relative capacity,Plus early diagnostics,mae,0.2360014426207929,0.157619038100694,0.3313108504265452
+Cycle 100 relative capacity,Plus early diagnostics,rmse,0.2905307582487031,0.1870703336311726,0.4018132548675854
+Cycle 100 relative capacity,Plus early diagnostics,r2,0.2321943692196971,-0.8669628654429596,0.6660641903127273
+Cycle 100 relative capacity,Plus early diagnostics,spearman,0.6441557734693643,0.0962364638855102,0.8998661297260019
+Cycle 100 relative capacity,Plus full characterization,mae,0.1305048712072835,0.0920121372426406,0.1739254303951311
+Cycle 100 relative capacity,Plus full characterization,rmse,0.1616090676007049,0.1134540568222453,0.2086106249396767
+Cycle 100 relative capacity,Plus full characterization,r2,0.7624262204715301,0.4027726563729873,0.8908123704337259
+Cycle 100 relative capacity,Plus full characterization,spearman,0.7962211500142333,0.4735684268226488,0.9238094533004164
+Cycle 100 relative capacity,Plus delayed measurement,mae,0.1316925143453909,0.0945697998184389,0.1772591469480674
+Cycle 100 relative capacity,Plus delayed measurement,rmse,0.1628530671949001,0.113892546255733,0.2108355626026406
+Cycle 100 relative capacity,Plus delayed measurement,r2,0.758754654656495,0.392819066707973,0.8843325514632114
+Cycle 100 relative capacity,Plus delayed measurement,spearman,0.7997000869021467,0.4753272509782137,0.9265253313606806

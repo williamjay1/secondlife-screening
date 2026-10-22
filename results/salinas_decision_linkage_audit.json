@@ -1,0 +1,33 @@
+{
+  "n_characterization_cells": 100,
+  "n_performance_cells": 100,
+  "n_exact_links_to_2019_cells": 100,
+  "all_2021_cells_linked": true,
+  "all_2021_cells_have_recorded_test_time": true,
+  "all_2021_cells_have_2019_visual_reject_false": true,
+  "exact_numeric_matches_2021_to_2019": {
+    "x6_equals_Vo": true,
+    "x14_equals_Ct": true,
+    "x15_equals_En": true
+  },
+  "pack_level_history_matches": {
+    "x2_equals_zb": true,
+    "x3_over_x4_matches_cb_fraction_within_0.1pct": true,
+    "max_abs_cb_fraction_difference": 0.0009617922325757533
+  },
+  "n_packs_2021": 16,
+  "n_packs_2019": 152,
+  "capacity_audit": {
+    "n_cells_with_measured_capacity": 989,
+    "n_packs": 150,
+    "n_capacity_70": 487
+  },
+  "class_counts": {
+    "0": 64,
+    "1": 11,
+    "2": 25
+  },
+  "complete_trajectory_cells": 93,
+  "survives_100_at_70pct": 25,
+  "source_limit": "The 2021 outcome subset is linked to the same Salinas collection; it is not independent external-batch validation."
+}
